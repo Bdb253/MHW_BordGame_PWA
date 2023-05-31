@@ -1,0 +1,15 @@
+https://github.com/olawanlejoel/Todo-App/blob/main/src/App.js
+
+https://stackoverflow.com/questions/43668808/render-data-from-localstorage-with-react#:~:text=import%20React%20from%20%22react%22%3B%20export%20class%20CommentDisplay%20extends,return%20%28%3Cdiv%20className%3D%22list-group%22%3E%20%3Cul%20className%3D%22list-group-item%22%3E%3C%2Ful%3E%20%3C%2Fdiv%3E%29%3B%20%7D%20%7D
+
+https://www.digitalocean.com/community/tutorials/react-class-components#creating-a-class-component
+
+https://www.geeksforgeeks.org/reactjs-class-based-components/
+
+https://react-bootstrap.netlify.app/docs/components/accordion
+
+https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/offline
+
+https://create-react-app.dev/docs/importing-a-component
+
+https://www.freecodecamp.org/news/how-to-build-forms-in-react/

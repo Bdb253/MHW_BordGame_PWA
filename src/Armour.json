@@ -1,0 +1,14 @@
+{
+    "campaignName": "",
+    "players": [
+        {
+            "playerName":"",
+            "hunterName":"",
+            "weapon":"",
+            "armour":"",
+            "items":""
+        }
+    ],
+    "daysPlayed":0,
+    "campaignLength":25
+}
